@@ -1,6 +1,10 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif, Maiandra GD;
   }
+
+* {
+    scroll-behavior: smooth;
+}
   
   #logo {
     width: 100px;
